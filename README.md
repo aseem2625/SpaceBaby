@@ -109,14 +109,14 @@ Couldn't implement these features in submitted version as I couldn't make them a
 #Screenshot of the version submitted on 31st May, 2016.
 - **For the latest game play, checkout the game itself** :D 
 
-![alt tag](extras/Screen Shot 2016-06-01 at 12.00.25 am.png)
-![alt tag](extras/Screen Shot 2016-06-01 at 12.00.30 am.png)
-![alt tag](extras/Screen Shot 2016-06-01 at 12.44.31 am.png)
-![alt tag](extras/Screen Shot 2016-06-01 at 12.44.37 am.png)
-![alt tag](extras/Screen Shot 2016-06-01 at 6.01.35 am.png)
-![alt tag](extras/Screen Shot 2016-06-01 at 6.01.42 am.png)
-![alt tag](extras/Screen Shot 2016-06-01 at 6.02.03 am.png)
-![alt tag](extras/Screen Shot 2016-06-01 at 7.50.22 am.png)
-![alt tag](extras/Screen Shot 2016-06-01 at 7.52.06 am.png)
-![alt tag](extras/Screen Shot 2016-06-01 at 7.52.51 am.png)
-![alt tag](extras/Screen Shot 2016-06-01 at 7.55.20 am.png)
+<img src="extras/Screen&#32;Shot&#32;2016-06-01&#32;at&#32;12.00.25&#32;am.png" height="180px"/>
+<img src="extras/Screen&#32;Shot&#32;2016-06-01&#32;at&#32;12.00.30&#32;am.png" height="180px"/>
+<img src="extras/Screen&#32;Shot&#32;2016-06-01&#32;at&#32;12.44.31&#32;am.png" height="180px"/>
+<img src="extras/Screen&#32;Shot&#32;2016-06-01&#32;at&#32;12.44.37&#32;am.png" height="180px"/>
+<img src="extras/Screen&#32;Shot&#32;2016-06-01&#32;at&#32;6.01.35&#32;am.png" height="180px"/>
+<img src="extras/Screen&#32;Shot&#32;2016-06-01&#32;at&#32;6.01.42&#32;am.png" height="180px"/>
+<img src="extras/Screen&#32;Shot&#32;2016-06-01&#32;at&#32;6.02.03&#32;am.png" height="180px"/>
+<img src="extras/Screen&#32;Shot&#32;2016-06-01&#32;at&#32;7.50.22&#32;am.png" height="180px"/>
+<img src="extras/Screen&#32;Shot&#32;2016-06-01&#32;at&#32;7.52.06&#32;am.png" height="180px"/>
+<img src="extras/Screen&#32;Shot&#32;2016-06-01&#32;at&#32;7.52.51&#32;am.png" height="180px"/>
+<img src="extras/Screen&#32;Shot&#32;2016-06-01&#32;at&#32;7.55.20&#32;am.png" height="180px"/>
